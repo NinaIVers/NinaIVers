@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+## About me:
+
+- I am currently a PhD student in **Agronomy** in the area of ​​**Plant Breeding** (**UFRPE**). I started programming with Python during my master's degree, applying machine learning algorithms of grapevines (*Vitis* sp.). 🌱🍇🧬💻
+
+## 📧 Contact:
+[![researchgate](https://img.shields.io/badge/researchgate-000?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Nina-Verslype)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/nina-iris-v)
+
 <!--
 **NinaIVers/NinaIVers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
